@@ -9,7 +9,7 @@ Getting Started
 
 **Note: This project is not yet deployed to central maven repository so you need to install it locally, as follows:**
 
-```
+``` sh
 $ git clone git://github.com/kalyanmulampaka/spring-data-jdbc-codegen-maven-plugin.git
 $ cd spring-data-jdbc-codegen-maven-plugin
 $ mvn javadoc:jar source:jar install
@@ -18,7 +18,7 @@ $ mvn javadoc:jar source:jar install
 Usage
 ------
   To use the plugin add the following snippet in the build->plugins section of your pom.xml
-  
+``` xml  
       <plugin>
       			<!-- Spring Data Jdbc code generation. Code is generated before the compile phase -->
     				<groupId>com.mulampaka.spring.data.jdbc.codegen</groupId>
@@ -36,7 +36,7 @@ Usage
     					</execution>
     				</executions>
     	</plugin>
-
+```
 
 
 
