@@ -7,7 +7,7 @@ This is a maven plugin for using the [Spring Data Jdbc Code generator](https://g
 Getting Started
 ===============
 
-**Note: This project is not yet deployed to central maven repository so you need to install locally, as follows:**
+**Note: This project is not yet deployed to central maven repository so you need to install it locally, as follows:**
 
 ```
 $ git clone git://github.com/kalyanmulampaka/spring-data-jdbc-codegen-maven-plugin.git
