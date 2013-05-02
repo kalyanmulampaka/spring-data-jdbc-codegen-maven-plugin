@@ -12,7 +12,6 @@ Getting Started
 ```
 $ git clone git://github.com/kalyanmulampaka/spring-data-jdbc-codegen-maven-plugin.git
 $ cd spring-data-jdbc-codegen-maven-plugin
-$ git checkout 1.0.0
 $ mvn javadoc:jar source:jar install
 ```
 
