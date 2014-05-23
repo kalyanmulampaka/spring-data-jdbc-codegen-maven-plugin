@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>			
-		<codegen.version>1.0.0</codegen.version>
+		<codegen.version>1.0.1</codegen.version>
 		<logback.version>1.0.11</logback.version>
 		<slf4j.version>1.7.5</slf4j.version>
 	</properties>
